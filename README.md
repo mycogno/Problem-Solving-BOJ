@@ -1,2 +1,8 @@
-# Problem-Solving-BOJ
-백준 문제풀이
+# algorithm problem solving area
+
+## Sources
+* backjoon(boj)
+* programmers(pgms)
+
+## naming : source_number (ex: boj_1000)
+
